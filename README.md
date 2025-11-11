@@ -19,4 +19,4 @@ Foram realizadas adequações com base no projeto inicial, para a publicação d
 A aplicação pode ser acessada [aqui](https://passwordgen-one.vercel.app/)
 
 ## Pré-Visualização
-![Captura de tela do portal](img/Screenshot.png)
+![Captura de tela do portal](Screenshot.png)
